@@ -1,22 +1,43 @@
-## Oi, eu sou o Paulo Marconi 👋
+# 👋 Olá, eu sou Paulo Marconi!
 
-Sou estudante de tecnologia apaixonado por dados, programação e soluções criativas. Atualmente estou aprendendo mais sobre:
+🎓 Estudante de **Ciência da Computação** na **UNIFOR** e interessado em **Dados, Inteligência Artificial e Programação**.
 
-- 📊 Ciência de Dados (Python, Pandas, Numpy)
-- 🧠 Machine Learning (estou começando a explorar!)
-- 💾 Banco de dados (PostgreSQL)
+Gosto de transformar problemas em soluções utilizando tecnologia e estou sempre buscando aprender novas ferramentas e colocar o conhecimento em prática através de projetos.
+
+### 🚀 Atualmente estudando
+
+* 📊 **Ciência de Dados** — Python, Pandas, NumPy e Matplotlib
+* 🤖 **Machine Learning e Inteligência Artificial**
+* 🧠 **Redes Neurais e Deep Learning**
+* 🗄️ **SQL e análise de dados**
+* 📈 **Power BI e visualização de dados**
+
+### 🛠️ Tecnologias
+
+**Linguagens e Dados**
+
+`Python` `SQL` `C#` `Java` `Elixir`
+
+**Data Science & IA**
+
+`Pandas` `NumPy` `Matplotlib` `OpenCV` `PyTorch`
+
+**Ferramentas**
+
+`Git` `GitHub` `Power BI` `Google Colab` `LaTeX`
 
 
+### 📫 Contato
 
-
-<div> 
-
-  <a href = "mailto:paulomarconiats@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-marconi-512225295" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div>
+  <a href="mailto:paulomarconiats@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-marconi-512225295" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
+---
 
-
-
-
+⭐ *Sempre aprendendo, desenvolvendo projetos e explorando novas possibilidades com tecnologia.*
