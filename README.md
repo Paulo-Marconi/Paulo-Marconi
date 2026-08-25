@@ -38,6 +38,3 @@ Gosto de transformar problemas em soluções utilizando tecnologia e estou sempr
   </a>
 </div>
 
----
-
-⭐ *Sempre aprendendo, desenvolvendo projetos e explorando novas possibilidades com tecnologia.*
